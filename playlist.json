@@ -1,16 +1,17 @@
 [
   {
-    "name": "Arena ",
+    "name": "Arena",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd",
     "scheme": "clearkey",
-    "drm": "3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692"
+    "drm": "3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692",
     "logo": "https://get.perfecttv.net/logo/arena.png"
   },
   {
     "name": "Arena 2",
     "url": "https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=802",
     "scheme": "clearkey",
-    "drm": "ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff"
+    "drm": "ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff",
     "logo": "https://get.perfecttv.net/logo/arena2.png"
   }
 ]
+
